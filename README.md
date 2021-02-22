@@ -1,10 +1,9 @@
 # FTC-6837
 Robot code for FTC team 6837 for the 2020/2021 season - Java, made in Android Studio
 
-Hey Alyssa, got the code for gifjif right here. Really sorry I couldn't be there in person, thanks for picking up the slack. If they ask any questions about "main loops" the 
-robot runs through, just mention how it does the math for driving, by adding the x and y variables for each joystick each frame. (should be about halfway down either 
-meccDrive) 
+Hey, since I couldn't make it to the interview, I've got answers to questions they might ask.
 
+If they ask any questions about "main loops" the robot runs through, just mention how it does the math for driving, by adding the x and y variables for each joystick each frame. (should be about halfway down either meccDrive) 
 
 If they ask about struggles we had, say the autonomous code was tough based on battery life, since the power of our robot was pretty much dependent on our 
 battery levels, and anything less than 80% would completely change how far the robot went. 
@@ -20,8 +19,6 @@ On that same note, if they ask about things we wished we did differently, say th
 
 Hope this stuff helps, if you've got any more questions, just send me a text or something. If I'm in my school of rock practice, I probably won't be able to respond 
 right away, so ask your questions before the interview. Plus, the comments I wrote were pretty descriptive too, so that might help a bit.
-
-Once again, thanks a bunch! We couldn't do this without you!
 
 ^-^
 
