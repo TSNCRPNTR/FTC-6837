@@ -1,5 +1,5 @@
 # FTC-6837
-Robot code for FTC team 6837 for the 2020/2021 season, not related to my ATCS class in any way - Java, made in Android Studio
+Robot code for FTC team 6837 for the 2020/2021 season - Java, made in Android Studio
 
 Hey Alyssa, got the code for gifjif right here. Really sorry I couldn't be there in person, thanks for picking up the slack. If they ask any questions about "main loops" the 
 robot runs through, just mention how it does the math for driving, by adding the x and y variables for each joystick each frame. (should be about halfway down either 
